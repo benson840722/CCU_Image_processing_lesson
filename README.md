@@ -1,1 +1,1 @@
-# CCU_Image_processing
+# CCU Image processing lesson 
